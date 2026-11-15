@@ -103,6 +103,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun reload() {
         permissionPanel.visibility = View.GONE
+        grid.visibility = View.VISIBLE
         progress.visibility = View.VISIBLE
         emptyText.visibility = View.GONE
         titleView.text = album ?: getString(R.string.all_photos)
