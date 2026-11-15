@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFFFF</color>
+    <color name="text_primary">#FF1B1B1F</color>
+    <color name="text_secondary">#FF6B6B72</color>
+    <color name="tile_placeholder">#FFEDEDF0</color>
+    <color name="accent">#FF1E6FD9</color>
+    <color name="accent_text">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="scrim">#66000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
