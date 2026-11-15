@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Photos</string>
+    <string name="all_photos">All photos</string>
+    <string name="all_photos_sub">Everything on this phone</string>
+    <string name="albums">Albums</string>
+    <string name="albums_title">Albums</string>
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="close">Close</string>
+    <string name="no_photos">No photos yet</string>
+    <string name="loading">Loading your photos…</string>
+
+    <string name="permission_title">Your photos, on your phone</string>
+    <string name="permission_explain">Simple Photos needs permission to show the pictures already on this phone.\n\nIt never uploads anything and never connects to the internet.</string>
+    <string name="permission_denied">Photos are still turned off. Tap below, then choose Permissions and allow photos.</string>
+    <string name="allow_photos">Allow access to my photos</string>
+    <string name="open_settings">Open phone settings</string>
+</resources>
